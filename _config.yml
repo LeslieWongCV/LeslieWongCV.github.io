@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yushuo Wong"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Student in Jilin University"
+  location         : "Changchun, China"
+  employer         :  
+  pubmed           : 
+  googlescholar    : 
+  email            : "yushuowang@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,22 +98,22 @@ author:
   foursquare       :
   github           : "academicpages"
   google_plus      :
-  keybase          :
+  keybase          : "https://github.com/LeslieWongCV"
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/宇朔-王-7331b4169/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "https://steamcommunity.com/id/lesilechaos/"
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/Coopershuo"
   vine             :
-  weibo            :
+  weibo            : 
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCfL0HDWeFpJ9HVsgTJSIUCg/about?view_as=subscriber"
   wikipedia        :
 
 
