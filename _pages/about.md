@@ -8,10 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am the student of Jilin University. Mayjor in Information Engineering, My research interests include Medical imaging, Machine Learning, Parallel Computing, I work as a research assistant in the team of [Prof.Shigang Wang](http://dce.jlu.edu.cn/info/1066/5106.htm), cooperating with Jilin Hospital. I also participated in projects on image and vedio segmentation.
+I am the student of Jilin University. Mayjor in Information Engineering, My research interests include Medical imaging, Machine Learning, Parallel Computing, I work as a research assistant in the team of [Prof. Shigang Wang](http://dce.jlu.edu.cn/info/1066/5106.htm), cooperating with Jilin Hospital. I also participated in projects on image and vedio segmentation.
 
 Education
 ======
+* B.S. in Information Engineering 
+Jilin University, 2016 - present
+Supervisor: [Jian Wei](https://wei-jian.github.io/publications/)
+
+* Exchange
+Cybersecurity Workshop
+venue:"University of Miami"
+date:"2018-07-15"
+
+Visiting 
 
 
 Getting started
