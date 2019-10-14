@@ -13,14 +13,16 @@ I am the student of Jilin University. Mayjor in Information Engineering, My rese
 Education
 ======
 * B.S. in Information Engineering  
-  Jilin University, 2016 - present
+  Jilin University, 2016 - present  
   Supervisor: [Jian Wei](https://wei-jian.github.io/publications/)
 * Exchange  
-  Cybersecurity Workshop, University of Miami, Jul.2018
+  Cybersecurity Workshop  
+  University of Miami, Jul.2018  
+  Supervisor: [Prof. Xiaodong Cai](https://www.umcoe.miami.edu/faculty-directory/name/xiaodong-cai/)
 * Lab Visiting  
-  Built Environment City Analytics Laboratory, UNSW, Dec.2018
-  Manufacturing Technology Research Laboratory, University of Manchester, Mar.2019
-
+  Built Environment City Analytics Laboratory, UNSW, Dec.2018   
+  Manufacturing Technology Research Laboratory, University of Manchester, Mar.2019  
+  Autonomous System and Robotics Lab, Salford Innovation Research Centre, Apr.2019  
 
 
 
