@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download](http://academicpages.github.io/files/CV-Wangyushuo.pdf)
+[Download](http:///lesliewongcv.github.io/files/CV-Wangyushuo.pdf)
