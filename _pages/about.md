@@ -13,13 +13,16 @@ I am the student of Jilin University. Mayjor in Information Engineering, My rese
 Education
 ======
 * B.S. in Information Engineering 
-Jilin University, 2016 - present
-Supervisor: [Jian Wei](https://wei-jian.github.io/publications/)
+ Jilin University, 2016 - present
+ Supervisor: [Jian Wei](https://wei-jian.github.io/publications/)
 
 * Exchange
-Cybersecurity Workshop
-venue:"University of Miami"
-date:"2018-07-15"
+ Cybersecurity Workshop, University of Miami, Jul.2018
+
+* Lab Visiting
+ Built Environment City Analytics Laboratory, UNSW, Dec.2018
+ Manufacturing Technology Research Laboratory, University of Manchester Mar.2019
+
 
 Visiting 
 
