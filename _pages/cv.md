@@ -8,4 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
+You can download my CV here:
 [Download](http:///lesliewongcv.github.io/files/CV-Wangyushuo.pdf)
