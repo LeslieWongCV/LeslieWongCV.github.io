@@ -22,15 +22,15 @@ Education
   University of Miami, Jul.2018  
   Supervisor: Prof. [Xiaodong Cai](https://www.umcoe.miami.edu/faculty-directory/name/xiaodong-cai/)
 * Lab Visiting  
-  * Built Environment City Analytics Laboratory 
+  * Built Environment City Analytics Laboratory  
     UNSW,                                     Dec.2018   
-  * Manufacturing Technology Research Laboratory 
+  * Manufacturing Technology Research Laboratory  
     University of Manchester,                 Mar.2019  
-  * Autonomous System and Robotics Lab 
+  * Autonomous System and Robotics Lab  
     Salford Innovation Research Centre(SIRC), Apr.2019  
-  * Robotics Innovatory 
+  * Robotics Innovatory  
     Sungkyunkwan University,                  Nov.2019  
-  * Department of Electronic and Communication 
+  * Department of Electronic and Communication  
     Far Eastern Federal University,           Apr.2019  
 
 
