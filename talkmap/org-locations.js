@@ -30,8 +30,13 @@ var addressPoints = [
     131.8869
   ],  
   [
-    "ChangChun, CN",
-    43.8171,
-    125.3235
+    "Chengdu, CN",
+    104.07,
+    30.67
+  ],
+  [
+    "Singapore",
+    1.16,
+    103.51
   ]
 ];

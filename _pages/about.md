@@ -10,7 +10,7 @@ redirect_from:
 
 A student of Jilin University. Major in Information Engineering, My research interests include Medical Imaging, Computer Vision in Robotics, Parallel Computing, I work as a research assistant in the team of Prof. [Shigang Wang](http://dce.jlu.edu.cn/info/1066/5106.htm), cooperating with Jilin Hospital. I also participated in projects on image and video object segmentation.
 
-check [here](https://lesliewongcv.github.io/talkmap.html) to see where I've been for School and Lab visiting.
+Check [here](https://lesliewongcv.github.io/talkmap.html) to see where I've been for School and Lab visiting.
 
 Education
 ======
