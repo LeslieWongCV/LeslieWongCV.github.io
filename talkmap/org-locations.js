@@ -31,8 +31,8 @@ var addressPoints = [
   ],  
   [
     "Chengdu, CN | Intership at PanoAI, Chengdu |  <a href'https://lesliewongcv.github.io/posts/2020/09/blog-post-1/'>Intern</a",
-    30.39,
-    104.03
+    30.3925,
+    104.0358
   ],
   [
     "Singapore | Admitted to Nanyang Technological University | <a href'https://lesliewongcv.github.io/posts/2020/04/blog-post-1/'>Graduate Study</a",
