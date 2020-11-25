@@ -15,8 +15,13 @@ Check [here](https://lesliewongcv.github.io/talkmap.html) to see where I've been
 Education
 ======
 * B.S. in Information Engineering  
-  Jilin University, 2016 - present  
+  Jilin University, China, 2016 - 2020  
   Supervisor: [Jian Wei](https://wei-jian.github.io/publications/)
+* M.Sc in Signal Processing  
+  Nanyang Technological University, Singapore, 2021 - 2022  
+* Intern    
+  Algorithm Engineer Intern
+  PanoAI, Chengdu, Sep 2020 - Dec 2020  
 * Exchange  
   Department of Electrical and Computer Engineering  
   University of Miami, Jul.2018  
