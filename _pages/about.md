@@ -16,16 +16,13 @@ Education
 ======
 * B.S. in Information Engineering  
   Jilin University, China, 2016 - 2020  
-  Supervisor: [Jian Wei](https://wei-jian.github.io/publications/)
-* M.Sc in Signal Processing  
+  Supervisor: [Jian Wei](https://wei-jian.github.io/publications/)  
+* M.Sc. in Signal Processing  
   Nanyang Technological University, Singapore, 2021 - 2022  
-* Intern    
-  Algorithm Engineer Intern
-  PanoAI, Chengdu, Sep 2020 - Dec 2020  
 * Exchange  
   Department of Electrical and Computer Engineering  
   University of Miami, Jul.2018  
-  Supervisor: Prof. [Xiaodong Cai](https://www.umcoe.miami.edu/faculty-directory/name/xiaodong-cai/)
+  Supervisor: Prof. [Xiaodong Cai](https://www.umcoe.miami.edu/faculty-directory/name/xiaodong-cai/)  
 * Lab Visiting  
   * Built Environment City Analytics Laboratory  
     UNSW,                                     Dec.2018   
@@ -38,10 +35,11 @@ Education
   * Department of Electronic and Communication  
     Far Eastern Federal University,           Apr.2019  
 
-
-
-
-
+Intern
+======  
+* Intern    
+  Algorithm Engineer Intern
+  PanoAI, Chengdu, Sep 2020 - Dec 2020  
 
 Recent News
 ======
