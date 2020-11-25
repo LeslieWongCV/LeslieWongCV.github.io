@@ -36,9 +36,8 @@ Education
     Far Eastern Federal University,           Apr.2019  
 
 Intern
-======  
-* Intern    
-  Algorithm Engineer Intern
+======      
+  * Algorithm Engineer Intern  
   PanoAI, Chengdu, Sep 2020 - Dec 2020  
 
 Recent News
