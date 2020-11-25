@@ -38,7 +38,7 @@ Education
 Intern
 ======      
   * Algorithm Engineer Intern  
-  PanoAI, Chengdu, Sep 2020 - Dec 2020  
+    PanoAI, Chengdu, Sep 2020 - Dec 2020  
 
 Recent News
 ======
