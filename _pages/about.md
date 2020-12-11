@@ -17,7 +17,7 @@ Education
 * B.S. in Information Engineering  
   Jilin University, China, 2016 - 2020  
   Supervisor: [Jian Wei](https://wei-jian.github.io/publications/)  
-* M.Sc. in Signal Processing  
+* M.Sc. in Computer Control and Automation  
   Nanyang Technological University, Singapore, 2021 - 2022  
 * Exchange  
   Department of Electrical and Computer Engineering  
@@ -38,7 +38,7 @@ Education
 Intern
 ======      
   * Algorithm Engineer Intern  
-    PanoAI, Chengdu, Sep 2020 - Dec 2020  
+    [PanoAI](https://www.pano-ai.com/), Chengdu, Sep 2020 - Dec 2020  
 
 Recent News
 ======
