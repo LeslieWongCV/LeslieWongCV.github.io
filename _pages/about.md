@@ -11,7 +11,7 @@ A student of Nanyang Technological University. Major in Computer Control & Autom
 
 Click [here](https://lesliewongcv.github.io/talkmap.html) to see where I've been for School and Lab visiting.  
 
-Click [here](https://lesliewongcv.github.io/year-archive/) for the Blog Posts.
+Click [here](https://lesliewongcv.github.io/year-archive/) for the Blog Posts.  
 Education
 ======
 * B.S. in Information Engineering  
