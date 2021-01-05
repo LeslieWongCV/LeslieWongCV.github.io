@@ -9,12 +9,12 @@ redirect_from:
 ---
 A student of Nanyang Technological University. Major in Computer Control & Automation, My research interests include Medical Imaging, Computer Vision in Robotics, Parallel Computing, I worked as an Algorithm Engineer Intern at [PanoAI](https://www.pano-ai.com/), Chengdu. I also participated in projects on image and video object segmentation.
 
-Click [here](https://lesliewongcv.github.io/talkmap.html) to see where I've been for School and Lab visiting.  
+Click [here](https://lesliewongcv.github.io/talkmap.html) to see where I've been for School and Lab visiting.   
 
 Click [here](https://lesliewongcv.github.io/year-archive/) for the Blog Posts.  
 
-Education
-======
+Education  
+======  
 * B.S. in Information Engineering  
   Jilin University, China, 2016 - 2020  
   Supervisor: [Jian Wei](https://wei-jian.github.io/publications/)  
