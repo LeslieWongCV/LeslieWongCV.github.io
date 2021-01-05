@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-A student of Jilin University. Major in Information Engineering, My research interests include Medical Imaging, Computer Vision in Robotics, Parallel Computing, I work as a research assistant in the team of Prof. [Shigang Wang](http://dce.jlu.edu.cn/info/1066/5106.htm), cooperating with Jilin Hospital. I also participated in projects on image and video object segmentation.
+A student of Nanyang Technological University. Major in Computer Control & Automation, My research interests include Medical Imaging, Computer Vision in Robotics, Parallel Computing, I worked as an Algorithm Engineer Intern at [PanoAI](https://www.pano-ai.com/), Chengdu. I also participated in projects on image and video object segmentation.
 
 Check [here](https://lesliewongcv.github.io/talkmap.html) to see where I've been for School and Lab visiting.
 
@@ -25,15 +24,15 @@ Education
   Supervisor: Prof. [Xiaodong Cai](https://www.umcoe.miami.edu/faculty-directory/name/xiaodong-cai/)  
 * Lab Visiting  
   * Built Environment City Analytics Laboratory  
-    UNSW,                                     Dec.2018   
+    UNSW,                                      
   * Manufacturing Technology Research Laboratory  
-    University of Manchester,                 Mar.2019  
+    University of Manchester,                
   * Autonomous System and Robotics Lab  
-    Salford Innovation Research Centre(SIRC), Apr.2019  
+    Salford Innovation Research Centre(SIRC) 
   * Robotics Innovatory  
-    Sungkyunkwan University,                  Nov.2019  
+    Sungkyunkwan University 
   * Department of Electronic and Communication  
-    Far Eastern Federal University,           Apr.2019  
+    Far Eastern Federal University
 
 Intern
 ======      
