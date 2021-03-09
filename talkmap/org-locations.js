@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Miami ,USA | Electronic and Computer Engineering Department, University of Miami | <a href='https://lesliewongcv.github.io/posts/2018/08/blog-post-1'>2018 Summer Research Program</a>",
+    "Miami, USA | Electronic and Computer Engineering Department, University of Miami | <a href='https://lesliewongcv.github.io/posts/2018/08/blog-post-1'>2018 Summer Research Program</a>",
     25.7192,
     -80.2771
   ],
@@ -15,7 +15,7 @@ var addressPoints = [
     -0.1278
   ],
   [
-    "Los Angeles, CA | <a href'https://lesliewongcv.github.io/posts/2018/07/blog-post-2'>Santa Monica</a>",
+    "Los Angeles, CA | <a href='https://lesliewongcv.github.io/posts/2018/07/blog-post-2'>Santa Monica</a",
     34.0195, 
     -118.4912
   ],
@@ -30,12 +30,12 @@ var addressPoints = [
     131.8869
   ],  
   [
-    "Chengdu, CN | Intership at PanoAI, Chengdu |  <a href'https://lesliewongcv.github.io/posts/2020/09/blog-post-1/'>Intern</a",
+    "Chengdu, CN | Intership at PanoAI, Chengdu |  <a href='https://lesliewongcv.github.io/posts/2020/09/blog-post-1/'>Intern</a",
     30.3925,
     104.0358
   ],
   [
-    "Singapore | Admitted to Nanyang Technological University | <a href'https://lesliewongcv.github.io/posts/2020/04/blog-post-1/'>Graduate Study</a",
+    "Singapore | Admitted to Nanyang Technological University | <a href='https://lesliewongcv.github.io/posts/2020/04/blog-post-1/'>Graduate Study</a",
     1.17,
     103.50
   ]
