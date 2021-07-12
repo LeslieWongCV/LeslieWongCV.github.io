@@ -39,6 +39,9 @@ Intern
 ======      
   * Algorithm Engineer Intern  
     [PanoAI](https://www.pano-ai.com/), Chengdu, Sep 2020 - Dec 2020  
+    
+ * Algorithm Engineer Intern
+    [A*STAR](https://www.a-star.edu.sg), Singapore, Jun 2021 - Feb 2022  
 
 Recent News
 ======
