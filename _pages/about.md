@@ -18,7 +18,9 @@ Education
   Jilin University, China, 2016 - 2020  
   Supervisor: [Jian Wei](https://wei-jian.github.io/publications/)  
 * M.Sc. in Computer Control and Automation  
-  Nanyang Technological University, Singapore, 2021 - 2022  
+  Nanyang Technological University, Singapore, 2021 - 2022 
+  Supervisor: [P. N. Suganthan](https://scholar.google.com/citations?user=yZNzBU0AAAAJ)  
+  Co-supervisor: [ArulMurugan Ambikapathi](https://scholar.google.com/citations?user=TL-_t6sAAAAJ) 
 * Exchange  
   Department of Electrical and Computer Engineering  
   University of Miami, Jul.2018  
@@ -40,8 +42,8 @@ Intern
   * Algorithm Engineer Intern  
     [PanoAI](https://www.pano-ai.com/), Chengdu, Sep 2020 - Dec 2020  
     
- * Algorithm Engineer Intern
-    [A*STAR](https://www.a-star.edu.sg), Singapore, Jun 2021 - Feb 2022  
+ * Algorithm Engineer Intern  
+    [Machine Intellection I2R A*Star](https://www.a-star.edu.sg), Singapore, Jun 2021 - Feb 2022  
 
 Recent News
 ======
