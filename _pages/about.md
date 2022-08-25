@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-A student of Nanyang Technological University. Major in Computer Control & Automation, My research interests include Medical Imaging, Computer Vision in Robotics, Parallel Computing, I worked as an Algorithm Engineer Intern at A*Star, Singapore, I also participated in projects on image object segmentation and NLP NER tasks.
+A student of Nanyang Technological University. Major in Computer Control & Automation, My research interests include Medical Imaging, Computer Visio, Natural Language Processing and Parallel Computing, I worked as an Algorithm Engineer Intern at A*Star, Singapore, I also participated in projects on image object segmentation and NLP NER tasks.
 
 Click [here](https://lesliewongcv.github.io/talkmap.html) to see where I've been for School and Lab visiting.   
 
