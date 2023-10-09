@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-A student of Nanyang Technological University. Major in Computer Control & Automation, My research interests include Medical Imaging, Computer Visio, Natural Language Processing and Parallel Computing, I worked as an Algorithm Engineer Intern at A*Star, Singapore, I also participated in projects on image object segmentation and NLP NER tasks.
+Algorithm Engineer at Bank, working on Document AI and NLP. Student of Nanyang Technological University, Major in Computer Control & Automation, My research interests include Medical Imaging, Computer Visio, Natural Language Processing and Parallel Computing, I worked as an Algorithm Engineer Intern at A*Star, Singapore, I also participated in projects on image object segmentation and NLP NER tasks.
 
 Click [here](https://lesliewongcv.github.io/talkmap.html) to see where I've been for School and Lab visiting.   
 
@@ -44,6 +44,11 @@ Intern
     
  * Algorithm Engineer Intern  
     [Machine Intellection I2R A*Star](https://www.a-star.edu.sg), Singapore, Jun 2021 - Feb 2022  
+
+Work
+======  
+  * Algorithm Engineer  
+    [OCBC](https://www.ocbc.com/group/gateway.page), Singapore, Jun 2022 - present  
 
 Recent News
 ======
