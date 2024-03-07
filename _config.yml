@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yushuo Wang"
+title                    : "Lester Wang"
 title_separator          : "-"
-name                     : &name "Yushuo Wang"
+name                     : &name "Lester Wang"
 description              : &description "Where is this???????"
 url                      : https://LeslieWongCV.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yushuo Wong"
+  name             : "Lester Wong"
   avatar           : "profile.jpg"
   bio              : "Student in NTU"
   location         : "Singapore"
