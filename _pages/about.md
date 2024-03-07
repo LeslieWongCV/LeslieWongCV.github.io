@@ -48,7 +48,7 @@ Intern
 Work
 ======  
   * Algorithm Engineer  
-    [OCBC](https://www.ocbc.com/group/gateway.page), Singapore, Jun 2022 - present  
+    Banking, Singapore, Jun 2022 - present  
 
 Recent News
 ======
