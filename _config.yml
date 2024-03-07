@@ -87,7 +87,7 @@ author:
   employer         :  
   pubmed           : 
   googlescholar    : 
-  email            : "yushuowang@outlook.com"
+  email            : "yushuowang@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   github           : "LeslieWongCV"
   google_plus      :
   keybase          : 
-  instagram        : "marcus_wong716"
+  instagram        : #"marcus_wong716"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : #"宇朔-王-7331b4169/"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            : #"lesilechaos/"
   tumblr           :
-  twitter          : "Coopershuo"
+  twitter          : #"Coopershuo"
   vine             :
   weibo            : 
   xing             :
