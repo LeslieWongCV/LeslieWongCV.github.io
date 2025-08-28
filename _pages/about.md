@@ -47,10 +47,10 @@ Intern
 
 Work
 ======  
-  * Data Scientist  
-    Banking, Singapore, Sept 2024 - present  
   * Data Engineer  
     Banking, Singapore, Jun 2022 - Sept 2024  
+  * Data Scientist  
+    Banking AI Lab, Singapore, Sept 2024 - present  
 
 Recent News
 ======
