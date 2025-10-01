@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Data Scientist at Bank, working on Document AI and NLP. Student of Nanyang Technological University, Major in Computer Control & Automation, My research interests include Medical Imaging, Computer Visio, Natural Language Processing and Parallel Computing, I worked as an Algorithm Engineer Intern at A*Star, Singapore, I also participated in projects on image object segmentation and NLP NER tasks.
+Data Scientist at Bank, working on Document AI and NLP. Student of Nanyang Technological University, Major in Computer Control & Automation, My research interests include Medical Imaging, Computer Vision, Natural Language Processing and Parallel Computing.
 
 Click [here](https://lesliewongcv.github.io/talkmap.html) to see where I've been for School and Lab visiting.   
 
