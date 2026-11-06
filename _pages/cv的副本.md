@@ -8,5 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can download my CV here:
-[Download](http:///lesliewongcv.github.io/files/CV-Wangyushuo.pdf)
+My CV is available on request: [yushuowang@outlook.com](mailto:yushuowang@outlook.com). See also the [About page](/) for experience, publications and competitions.
